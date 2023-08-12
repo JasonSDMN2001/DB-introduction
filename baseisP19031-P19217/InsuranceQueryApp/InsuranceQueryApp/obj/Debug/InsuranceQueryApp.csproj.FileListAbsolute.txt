@@ -1,0 +1,69 @@
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\InsuranceQueryApp.exe.config
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\InsuranceQueryApp.exe
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\InsuranceQueryApp.pdb
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\Npgsql.dll
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Buffers.dll
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Memory.dll
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Text.Json.dll
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Threading.Channels.dll
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.ValueTuple.dll
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\Npgsql.xml
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Buffers.xml
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Memory.xml
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Text.Json.xml
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Threading.Channels.xml
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.ValueTuple.xml
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\obj\Debug\InsuranceQueryApp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\obj\Debug\InsuranceQueryApp.Form1.resources
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\obj\Debug\InsuranceQueryApp.Properties.Resources.resources
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\obj\Debug\InsuranceQueryApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\obj\Debug\InsuranceQueryApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\obj\Debug\InsuranceQueryApp.csproj.CopyComplete
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\obj\Debug\InsuranceQueryApp.exe
+C:\Users\user\source\repos\InsuranceQueryApp\InsuranceQueryApp\obj\Debug\InsuranceQueryApp.pdb
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\InsuranceQueryApp.exe.config
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\InsuranceQueryApp.exe.manifest
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\InsuranceQueryApp.application
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\InsuranceQueryApp.exe
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\InsuranceQueryApp.pdb
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\Npgsql.dll
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Buffers.dll
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Memory.dll
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Text.Json.dll
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Threading.Channels.dll
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.ValueTuple.dll
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\Npgsql.xml
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Buffers.xml
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Memory.xml
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Text.Json.xml
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Threading.Channels.xml
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\bin\Debug\System.ValueTuple.xml
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\obj\Debug\InsuranceQueryApp.Form1.resources
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\obj\Debug\InsuranceQueryApp.Properties.Resources.resources
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\obj\Debug\InsuranceQueryApp.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\obj\Debug\InsuranceQueryApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\obj\Debug\InsuranceQueryApp.exe.manifest
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\obj\Debug\InsuranceQueryApp.application
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\obj\Debug\InsuranceQueryApp.csproj.CopyComplete
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\obj\Debug\InsuranceQueryApp.exe
+C:\Users\user\OneDrive\Έγγραφα\2o Eτος\βάσεις\InsuranceQueryApp\InsuranceQueryApp\obj\Debug\InsuranceQueryApp.pdb
